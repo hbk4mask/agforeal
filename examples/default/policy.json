@@ -1,0 +1,10 @@
+{
+  "max_ips_per_maid": 1000,
+  "max_maids_per_ip": 20000,
+  "max_maids_per_email": 30000,
+  "window": "source",
+  "deduplicate": true,
+  "mismatch_action": "quarantine",
+  "timestamp_unit": "auto",
+  "require_identifier": true
+}

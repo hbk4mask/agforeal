@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.runtime/
+.DS_Store
+spark/target/
+spark/project/target/
+spark/project/project/
+
+# Deployment-specific settings
+deploy/cloud-run.env.yaml
+.env
+.env.*

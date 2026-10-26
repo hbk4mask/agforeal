@@ -1,0 +1,14 @@
+.git
+.runtime
+.venv
+venv
+**/__pycache__
+**/*.parquet
+**/*.jpg
+**/*.png
+**/.DS_Store
+.env
+.env.*
+deploy/*.yaml
+spark/target
+spark/project/target

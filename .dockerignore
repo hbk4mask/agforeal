@@ -1,0 +1,9 @@
+**
+!requirements.txt
+!requirements-cloud.txt
+!source_agent/
+!source_agent/**
+!examples/
+!examples/default/
+!examples/default/SourceOnboarding.scala
+source_agent/**/__pycache__/

@@ -1,0 +1,4 @@
+-r requirements.txt
+google-auth[requests]>=2.35,<3
+requests>=2.32,<3
+google-cloud-storage>=2.18,<4
